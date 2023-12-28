@@ -1,3 +1,5 @@
+#BMI Calculator with python 
+
 name = input("Enter your name: ")
 weight = int(input("Enter your weight in kilograms: "))
 
