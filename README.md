@@ -8,7 +8,7 @@ Exploring Covid-19 historical data from 2020 - 2021. Looking at number of cases 
    Links to the data: [Covid Deaths](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx), [Covid Vaccinations](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx).  
      
 3. [Data Cleaning in Pandas](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Data_Cleaning_in_Pandas.ipynb). Learning to clean data on a small made up dataset with Pandas in Jupyter notebook.  
-   In this project I learned how to use Pandas for cleaning data. I have loaded data into the dataframe from excel file, removed duplicates and unnecessary data. I used .strip() to remove whitespace, leading and trailing characters from a string in a column.  I used .replace() to rplace one character with another. I split a column into three columns with .stlit().   
+   In this project I learned how to use Pandas for cleaning data. I have loaded data into the dataframe from excel file, removed duplicates and unnecessary data. I used .strip() to remove whitespace, leading and trailing characters from a string in a column.  I used .replace() to rplace string with another. I split a column into three columns with .stlit().   
    Link to the [dataset](https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/Customer%20Call%20List.xlsx).
         
 4. [Exploratory data analysis with Pandas](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Exploratory_Data_Analysis_in_Pandas.ipynb). Exploring world population data with Pandas in Jupyter notebook.    
