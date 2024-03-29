@@ -3,7 +3,7 @@ Hi! I'm learning SQL and Python.
 Here are some small projects I've done:   
 
 1. [Covid_project](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Covid_project.sql)  is Covid 19 Data Exploration with SQL.    
-Exploring Covid-19 historical data for 2020 - 2021. Looking at numbers of cases and mortality rate globally and in individual countries.  
+Exploring Covid-19 historical data for 2020 - 2021. Looking at number of cases and mortality rate globally and in individual countries.  
    Visualization of results on [Tableau](https://public.tableau.com/views/Covid-19project_16998987305370/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).    
    Links to the data: [Covid Deaths](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx), [Covid Vaccinations](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx).  
      
